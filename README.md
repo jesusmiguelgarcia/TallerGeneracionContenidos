@@ -12,4 +12,9 @@ https://triton.astroscu.unam.mx/fruiz/introduccion/latex/Manual%20de%20Latex.htm
 
 https://aprendeconalf.es/latex-manual/manual-latex.pdf
 
+Template
+
+Presentacion: https://www.overleaf.com/latex/templates/simpledarkblue-beamer-theme/cyjyxkdttqzs
+
+Articulo COMIA: LaTeX: https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v8
 
